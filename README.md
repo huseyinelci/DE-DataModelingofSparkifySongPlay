@@ -104,8 +104,8 @@ Why use an [RDMS-relational database](https://db-engines.com/en/article/Relation
 - Also, our dataset's types are structured.
 - Data needed to answer business questions can be modeled using simple [ERD models](https://www.lucidchart.com/pages/er-diagrams#:~:text=Also%20known%20as%20ERDs%20or,nouns%20and%20relationships%20as%20verbs.)
 - We need to use [JOINS](https://www.tutorialspoint.com/postgresql/postgresql_using_joins.htm) for this scenario
-<img src=\"https://github.com/huseyinelci2000/DE-DataModelingofSparkifySongPlay/blob/master/image/xRDBS_diagram.png?raw=true\" width=\"100%\">
-
+<img src=\"https://github.com/huseyinelci2000/DE-DataModelingofSparkifySongPlay/blob/master/image/RDBS_diagram.png" width=\"30%\">
+"
 
 #### Fact Table
 **songplays** - records in log data associated with song plays i.e. records with page NextSong
