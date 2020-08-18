@@ -1,4 +1,4 @@
-<img src="https://github.com/huseyinelci2000/DE-DataModelingofSparkifySongPlay/blob/master/image/RDBS_Sparkifyçjpg?raw=true" width="100%">
+<img src="https://github.com/huseyinelci2000/DE-DataModelingofSparkifySongPlay/blob/master/image/RDBS_Sparkify.jpg?raw=true" width="100%">
 # DE-Data Modeling ETL Processing of Sparkify Song Play
 
 This project is submission for the Nanodegree Data Engineering Program. In this project consists of putting into practice the following titles:
