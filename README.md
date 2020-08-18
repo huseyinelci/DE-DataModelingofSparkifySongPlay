@@ -1,6 +1,7 @@
 <img src="https://github.com/huseyinelci2000/DE-DataModelingofSparkifySongPlay/blob/master/image/RDBS_Sparkify.jpg?raw=true" width="100%">
-# DE-Data Modeling ETL Processing of Sparkify Song Play
 
+----
+# DE-Data Modeling ETL Processing of Sparkify Song Play
 This project is submission for the Nanodegree Data Engineering Program. In this project consists of putting into practice the following titles:
 - **Data modeling** with PostgreSQL
 - Created database with **star schema**
@@ -62,9 +63,9 @@ The log files in the dataset you'll be working with are partitioned by year and 
 In addition to the data files, this repository has six files:
 
 1. **`data`** folder nested at the home of the project, where all needed jsons reside.
-2. **`create_tables.py` ** drops and creates tables. You run this file to reset your tables before each time you run your ETL scripts.
+2. **`create_tables.py`** drops and creates tables. You run this file to reset your tables before each time you run your ETL scripts.
 3. **`etl.ipynb`** reads and processes a single file from song_data and log_data and loads the data into your tables. This notebook contains detailed instructions on the ETL process for each of the tables.
-4. **`etl.py` ** reads and processes files from song_data and log_data and loads them into your tables. You can fill this out based on your work in the ETL notebook.
+4. **`etl.py`** reads and processes files from song_data and log_data and loads them into your tables. You can fill this out based on your work in the ETL notebook.
 5. **`sql_queries.py`** contains all your sql queries, and is imported into the files bellow.
 6. **`test.ipynb`** displays the first few rows of each table to let you check your database.
 7. **`README.md`** current file, provides discussion on my project.
