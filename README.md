@@ -162,5 +162,4 @@ The data In this project is **OpenSource** and owner is  [Million Song Dataset](
 Huseyin ELCI
   |  [Github](https://github.com/huseyinelci2000)  |  [Kaggle](https://www.kaggle.com/huseyinelci)  |  [Linkedin](https://www.linkedin.com/in/huseyinelci/)   |  
 #### Acknowledgements
-Thanks to [Udacity](https://www.udacity.com/) for editing and setting the projects.
 Thanks to  [Million Song Dataset](http://millionsongdataset.com/) for providing cool data with which we can create a cutting edge project.
